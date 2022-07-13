@@ -1,5 +1,5 @@
 <?php
-$title = "Privacy Policy | Psychic Artist";
+$title = "Privacy Policy | Master Wang";
 $sdescription = "A privacy policy is a legal document that discloses some or all of the ways a party gathers, uses, discloses, and manages a customer or client's data.";
 ?>
 <div class="container-fluid" data-layout="container" style="padding:0!important;padding-top:20px!important;">
@@ -29,7 +29,7 @@ $sdescription = "A privacy policy is a legal document that discloses some or all
                   <div class="card-body">
                 
                   <h6 class="text-primary" id="0">Welcome </h6>
-<p class=" mb-0">Welcome to https://psychic-artist.com (the "Site"). We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Psychic Drawings (collectively, "Services") ("Authorized Customers").</p>
+<p class=" mb-0">Welcome to https://masterwang.shop (the "Site"). We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Psychic Drawings (collectively, "Services") ("Authorized Customers").</p>
 <hr class="my-4" />
 
 <h6 class="text-primary" id="1">“Personally Identifiable Information”</h6>
@@ -63,7 +63,7 @@ $sdescription = "A privacy policy is a legal document that discloses some or all
 
 <hr class="my-4" />
 <h6 class="text-primary" id="6">How is Personally Identifiable Information stored?</h6>
-<p class="mb-0 ">Personally Identifiable Information collected by Psychic Artist is securely stored and is not accessible to third parties or employees of Psychic Artist except for use as indicated above.</p>
+<p class="mb-0 ">Personally Identifiable Information collected by Master Wang is securely stored and is not accessible to third parties or employees of Master Wang except for use as indicated above.</p>
 
 
 <p class="mb-0 ">What choices are available to Visitors regarding collection, use and distribution of the information?</p>
@@ -81,7 +81,7 @@ $sdescription = "A privacy policy is a legal document that discloses some or all
 
 <hr class="my-4" />
 <h6 class="text-primary" id="8">Are Cookies Used on the Site?</h6>
-<p class="mb-0 ">Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off. Visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using https://psychic-artist.com and https://psychic-artist.com, with the drawback that certain features of website may not function properly without the aid of cookies.</p>
+<p class="mb-0 ">Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off. Visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using https://masterwang.shop and https://masterwang.shop, with the drawback that certain features of website may not function properly without the aid of cookies.</p>
 
 
 
@@ -90,16 +90,16 @@ $sdescription = "A privacy policy is a legal document that discloses some or all
 <p class="mb-0 ">Our service providers use cookies and those cookies may be stored on your computer when you visit our website. You can find more details about which cookies are used in our cookies info page.</p>
 
 
-<p class="mt-3 text-primary">How does Psychic Artist use login information?</p>
+<p class="mt-3 text-primary">How does Master Wang use login information?</p>
 
 
-<p class="mb-0 ">Psychic Artist uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.</p>
+<p class="mb-0 ">Master Wang uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.</p>
 
 
 <p class="mt-3 text-primary">What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?</p>
 
 
-<p class="mb-0 ">Psychic Artist has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. Such vendors may have access to certain Personally Identifiable Information on a need to know the basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. Disclosure of Personally Identifiable Information to comply with the law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.</p>
+<p class="mb-0 ">Master Wang has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. Such vendors may have access to certain Personally Identifiable Information on a need to know the basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. Disclosure of Personally Identifiable Information to comply with the law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.</p>
 
 
 <p class="mt-3 text-primary">How does the Site keep Personally Identifiable Information secure?</p>
@@ -138,7 +138,7 @@ $sdescription = "A privacy policy is a legal document that discloses some or all
 
 <hr class="my-4" />
 <h6 class="text-primary" id="12">Links:</h6>
-<p class="mb-0 ">https://psychic-artist.com and https://psychic-artist.com contains links to other websites. Please note that when you click on one of these links, you are moving to another website. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.</p>
+<p class="mb-0 ">https://masterwang.shop and https://masterwang.shop contains links to other websites. Please note that when you click on one of these links, you are moving to another website. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.</p>
 
                   </div>
               </div>

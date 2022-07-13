@@ -1,5 +1,5 @@
 <?php
-$title = "Order Status | Psychic Artist";
+$title = "Order Status | Master Wang";
 $sdescription = "FAQ Description";
 header("Location: https://".$domain."/dashboard");
 die();?>

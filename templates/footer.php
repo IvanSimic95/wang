@@ -51,7 +51,7 @@
           <div class="container py-3">
             <div class="row justify-content-between fs--1">
               <div class="col-12 col-md-6 text-center text-md-start">
-                <p class="mb-0 text-white opacity-85">© 2022 Psychic Artist All Rights Reserved</p>
+                <p class="mb-0 text-white opacity-85">© 2022 Master Wang All Rights Reserved</p>
               </div>
               <div class="col-12 col-md-6 text-end d-none	d-sm-none d-md-block">
                 <p class="mb-0 text-white opacity-85">v<?php echo $webVersion; ?></p>

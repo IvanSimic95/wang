@@ -54,8 +54,8 @@ signature: "$ChatSignature"
 var operator = new Talk.User({
     id: 'PAadmin',
     role: 'PAadmin',
-    name: 'Psychic Artist',
-    email: 'contact@psychic-artist.com',
+    name: 'Master Wang',
+    email: 'contact@masterwang.shop',
     photoUrl: 'https://$domain/assets/img/logo-1.png',
     welcomeMessage: 'Hey, how can I help you?'
 });

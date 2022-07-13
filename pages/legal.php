@@ -1,4 +1,4 @@
 <?php
-header("Location: https://psychic-artist.com/legal/privacy-policy");
+header("Location: https://masterwang.shop/legal/privacy-policy");
 die();
 ?>

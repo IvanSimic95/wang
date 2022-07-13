@@ -11,7 +11,7 @@ s.parentNode.insertBefore(t,s)}(window, document,'script',
 'https://connect.facebook.net/en_US/fbevents.js');
 
 <?php if(isset($_SESSION['loggedIn'])){ ?>
-fbq('init', '378496887537369', {
+fbq('init', '1104736736779961', {
 em: '<?php echo $_SESSION['email']; ?>',        
 fn: '<?php echo $_SESSION['fname']; ?>',    
 ln: '<?php echo $_SESSION['lname']; ?>',
@@ -20,12 +20,12 @@ ge: '<?php echo $_SESSION['FBgender']; ?>',
 external_id: '<?php echo $_SESSION['userID']; ?>'
 });
 <?php }else{ ?>
-fbq('init', '378496887537369');
+fbq('init', '1104736736779961');
 <?php } ?>
 fbq('track', 'PageView');
 </script>
 <noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=378496887537369&ev=PageView&noscript=1"
+src="https://www.facebook.com/tr?id=1104736736779961&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Meta Pixel Code -->
 <?php } ?>

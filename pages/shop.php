@@ -1,4 +1,4 @@
 <?php
-$title = "Shop | Psychic Artist";
+$title = "Shop | Master Wang";
 header("Location: https://".$domain."/shop/soulmate");
 die();?>

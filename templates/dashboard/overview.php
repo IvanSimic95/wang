@@ -24,7 +24,7 @@
   
 switch ($page) {          
 case 'overview':
-$title = "Dashboard | Psychic Artist"; 
+$title = "Dashboard | Master Wang"; 
 $insertPage = "main";
 $pageTitle1 = "Dashboard > Account Overview";
 $sdescription = "Access your user account and your orders";
@@ -39,7 +39,7 @@ EOT;
 break;
 
 case 'orders':
-$title = "Dashboard - Orders | Psychic Artist"; 
+$title = "Dashboard - Orders | Master Wang"; 
 $insertPage = "orders";
 $pageTitle1 = "Dashboard > Orders";
 $sdescription = "A full list of all your orders in one place";
@@ -60,14 +60,14 @@ EOT;
 break;
 
     case 'order':
-    $title = "Order #".$viewOrder." - Dashboard | Psychic Artist";
+    $title = "Order #".$viewOrder." - Dashboard | Master Wang";
     $insertPage = "order";
     $pageTitle1 = "Order #".$viewOrder."";
     $sdescription = "Take a look at your order details!";
     break;
 
             case 'profile':
-            $title = "Dashboard - Profile | Psychic Artist"; 
+            $title = "Dashboard - Profile | Master Wang"; 
             $insertPage = "profile";
             $pageTitle1 = "Dashboard > Profile";
             $sdescription = "Manage & Edit your user profile";

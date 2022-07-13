@@ -3,13 +3,13 @@
   "@context": "https://schema.org/",
   "@type": "Product",
   "name": "<?php echo $title; ?>",
-  "image": "https://psychic-artist.com<?php echo $image; ?>",
+  "image": "https://masterwang.shop<?php echo $image; ?>",
   "sku": "0446310786",
   "description": "<?php echo $sdescription; ?>",
   "mpn": "925872",
   "brand": {
         "@type": "Brand",
-        "name": "Psychic Artist"
+        "name": "Master Wang"
       },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -26,7 +26,7 @@
     "availability": "http://schema.org/InStock",
     "seller": {
       "@type": "Organization",
-      "name": "Psychic Artist"
+      "name": "Master Wang"
     }
   }
 }

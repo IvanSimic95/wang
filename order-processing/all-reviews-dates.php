@@ -12,7 +12,7 @@ if($domain == "pa.test"){
 	$username = "psychic_newpanel";
 	$password = "Jepang123Iva";
 	$db = "psychic_newpanel";
-  $base_url = "https://psychic-artist.com";
+  $base_url = "https://masterwang.shop";
 }
 
 // Create connection
@@ -38,7 +38,7 @@ $random_Date = date('Y-m-d H:i:s', $timestamp );
 $id = $row['review_id'];
 $text = $row['review_text'];
 
-$newtext = str_replace("Melissa","Psychic Artist",$text);
+$newtext = str_replace("Melissa","Master Wang",$text);
 
 $sql2 = "UPDATE `reviews` SET `review_date`='$random_Date' WHERE review_id='$id'" ;
 $result2 = $conn->query($sql2); //UNCOMMENT THIS TO MAKE IT WORK! 

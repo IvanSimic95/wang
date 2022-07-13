@@ -1,5 +1,5 @@
 <?php
-$title = "Contact - Support | Psychic Artist";
+$title = "Contact - Support | Master Wang";
 $sdescription = "Contact Us so we can help you!";
 
 
@@ -17,16 +17,7 @@ $count = $result->num_rows;
     <section class="py-0 overflow-hidden light" id="banner">
         <div class="container p-0">
 
-        <?php if(isset($_SESSION['loggedIn'])){ ?>
-         
-          
-                        <div class="alert alert-info border-2 d-flex align-items-center mt-1 col-12 offset-0 col-md-10 offset-md-1 mb-0" role="alert">
-                        <span class="bg-info me-3 icon-item"><span class="fas fa-info-circle text-white fs-3"></span></span>
-                        <p class="mb-0 d-block">I see that you are one of our customers, I highly recommend contacting us via live chat!<br> Wanna do that now?</p><br>
-                       
-                        </div>
-                        <a href="/dashboard/support" class="btn btn-primary d-block mb-3 mt-2 rounded-3 col-12 offset-0 col-md-10 offset-md-1" type="submit">Go to Live Chat! </a>
-            <?php } ?>
+
 
         <div class="card theme-wizard mb-5 col-12 offset-0 col-md-10 offset-md-1" id="wizard">
               <div class="card-header bg-light px-3 pt-3 pb-3 px-md-5">
@@ -38,7 +29,7 @@ $count = $result->num_rows;
                   <div class="tab-pane active px-sm-3 px-md-5" role="tabpanel" aria-labelledby="bootstrap-wizard-tab1" id="bootstrap-wizard-tab1">
                   
 
-                      <div class="elfsight-app-c96edf1d-ddee-4ee6-8816-19f06ec91f55"></div>
+                    <a href="mailto:contact@masterwang.shop">Email us at contact@masterwang.shop</a>
 
 
                   <!--

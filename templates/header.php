@@ -14,7 +14,7 @@
     <!-- ===============================================-->
     <meta name="title" content="%TITLE%" />
     <meta name="description" content="%DESCRIPTION%" />
-    <meta name="author" content="Psychic Artist" />
+    <meta name="author" content="Master Wang" />
     <link href="%LOGO%" rel="alternate" media="only screen and (max-width: 640px)" />
     <meta property="twitter:title" content="%TITLE%" />
     <meta property="twitter:description" content="%DESCRIPTION%" />
