@@ -80,9 +80,9 @@ if($domain == "wang.test"){
   $base_url = "https://wang.test";
 }else{
 	$servername = "localhost";
-	$username = "psychic_newpanel";
+	$username = "adzo_wang";
 	$password = "Jepang123Iva";
-	$db = "psychic_wang";
+	$db = "adzo_wang";
   $base_url = "https://masterwang.shop";
 }
 
