@@ -46,6 +46,10 @@ isset($_GET['cid']) ? $cid = $_GET['cid'] : $cid = "";
 isset($_GET['subid1']) ? $subid1 = $_GET['subid1'] : $subid1 = "";
 isset($_GET['subid2']) ? $subid2 = $_GET['subid2'] : $subid2 = "";
 
+$cookie_id = $_POST['cookie_id'];
+$cookie_id2 = $_POST['cookie_id2'];
+$cookie_id3 = $_POST['cookie_id3'];
+
 $order_date = date('Y-m-d H:i:s');
 $partnerGender = "male";
 
@@ -203,7 +207,11 @@ if($testError == TRUE){ //IF there was error recoreded fetching main variables s
         $logArray['11'] = "Error: " . $sql2->error . "<br>" . $conn->error;
     }
 
-    $finalLink = 'https://www.buygoods.com/secure/checkout.html?account_id=6490&screen=checkout_clean&product_codename='.$order_product_id.$order_priority.'&subid='.$cookie.'&subid2='.$lastRowInsert.'&subid3='.$order_product.'&subid4='.$uFBP.'&subid5='.$uFBC.'&external_order_id='.$lastRowInsert.'&redirect='.$baseRedirect;
+
+    $subidfull5 = $lastRowInsert."|".$domain."|".$cookie_id."|".$cookie_id2."|".$cookie_id3;
+    $subid5 = base64_encode($subidfull5);
+
+    $finalLink = 'https://www.buygoods.com/secure/checkout.html?account_id=6490&screen=checkout_clean&product_codename='.$order_product_id.$order_priority.'&subid='.$subid5.'&subid2='.$lastRowInsert.'&subid3='.$order_product.'&subid4='.$uFBP.'&subid5='.$uFBC.'&external_order_id='.$lastRowInsert.'&redirect='.$baseRedirect;
     
     $_SESSION['userID']    = $userID;
     $_SESSION['userEmail'] = $user_email;

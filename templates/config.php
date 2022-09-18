@@ -184,8 +184,18 @@ if(session_id() == '' || !isset($_SESSION) || session_status() === PHP_SESSION_N
   
   //Check if user cookie ID is set, if not set a new one
   $randomNumber = rand(155654654,955654654);
+  $randomNumber2 = rand(1556324654,955654654);
+  $randomNumber3 = rand(1556545124,9551754654);
   if(!isset($_SESSION['cookie'])) {
   $_SESSION['cookie'] = $randomNumber;
+  }
+
+  if(!isset($_SESSION['cookie2'])) {
+  $_SESSION['cookie2'] = $randomNumber2;
+  }
+
+  if(!isset($_SESSION['cookie3'])) {
+  $_SESSION['cookie3'] = $randomNumber3;
   }
   
   //Check if funnel page is set, if not set a new one
